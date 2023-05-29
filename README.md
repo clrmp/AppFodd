@@ -1,6 +1,6 @@
 # App Food
 
-## Passo a passo com comando para instalar as dependencias e pacotes necessários, configurar e iniciar o docker e como inserir dados no via Insomia ou Postman.
+## Passo a passo com comando para instalar as dependencias e pacotes necessários, configurar e iniciar o docker.
 
 ### Como instalar as dependencias e pacotes necessários:
 
