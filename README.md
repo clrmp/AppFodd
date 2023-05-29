@@ -15,6 +15,7 @@
 2. Depois dessa execução o terminal acaba ficando infuncional e por isso precisa abrir outro terminal.
 3. Nesse novo terminal, precisa executar o comando 'yarn dev' (pacote instalado no começo).
 4. Com isso o servidor vai está rodando no 'http://localhost:3000/'
+5. 
 
 
 ###
