@@ -14,7 +14,7 @@
 1. Na configuração do docker, vai ser usado por primeiro, o comando ' docker run --name mongodb -p 27017:27017 mongo'.
 2. Depois dessa execução o terminal acaba ficando infuncional e por isso precisa abrir outro terminal.
 3. Nesse novo terminal, precisa executar o comando 'yarn dev' (pacote instalado no começo).
-4. Com isso o servidor vai está rodando no '(http://localhost:3000/)'
+4. Com isso o servidor vai está rodando no 'http://localhost:3000/'
 
 
 ###
